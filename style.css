@@ -1,0 +1,31 @@
+.div_card1 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+}
+
+.div_card2 {
+    background-color: black;
+    width: 250px;
+    height: 125px;
+}
+
+p {
+    color: white;
+    background-color: blueviolet;
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.div_card3 {
+    height: 40vh;
+    width: 40%;
+    background-color: palevioletred;
+}
+
+.div_card4 {
+    height: 15%;
+    width: 15vw;
+    background-color: lightblue;
+}
